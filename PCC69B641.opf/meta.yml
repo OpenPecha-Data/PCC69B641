@@ -1,0 +1,19 @@
+id: PCC69B641
+initial_creation_type: input
+source_metadata:
+  title: Nyangral Nyima Özer Series
+  language: fr
+  description: 'Texts composed or revealed by the important tertön Nyangral Nyima
+    Özer (nyang ral nyi ma ''od zer, 1124–1192):'
+  volume:
+    6c840bf8e5024f9bbfe23f06add01670:
+      title: The Pointing-the-Staff Instruction
+      parent: Advice
+    8034880d13aa482f8f18f4ffadba3640:
+      title: A Prayer Recalling the Life and Liberation of the Precious Master Padmasambhava
+      parent: Prayers to Guru Rinpoche
+    68aa0db264724d84b1f5d1ce522953a3:
+      title: The Abbreviated Prayer in Seven Chapters
+      parent: Prayers to Guru Rinpoche
+created_at: '2022-03-01T01:04:34.419220'
+last_modified_at: '2022-03-01T01:04:34.419223'
